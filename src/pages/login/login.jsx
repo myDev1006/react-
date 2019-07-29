@@ -1,6 +1,6 @@
 import React,{Component} from 'react';
 import {Button,Form,Input,Icon,message} from "antd"
-import logo from "./img/logo.png"
+import logo from "../../assets/img/logo.png"
 import "./login.less"
 import storageUtil from "../../utils/storageUtil"
 import momoryUtil from "../../utils/momory"
